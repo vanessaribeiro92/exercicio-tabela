@@ -1,0 +1,32 @@
+table, tr, th, td, thead {
+  border: 1px solid white;
+  padding: 5px;
+  
+}
+/*border-botom
+padding: 5px*/
+table {
+  border-collapse: collapse;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #F5F5F5;
+}
+
+.blocobranco {
+  border-left-color: white;
+  border-top-color: white;
+}
+
+td {
+  text-align: center;
+}
+
+.caixarodape1{
+  background-color: #0078C1;
+}
+
+.caixarodape2 {
+  background-color: #009E2C;
+}
+
